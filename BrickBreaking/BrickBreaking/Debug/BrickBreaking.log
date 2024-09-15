@@ -1,0 +1,13 @@
+﻿  BrickBreaking.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\numbers(11): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\BrickBreaking\BrickBreaking\BrickBreaking.cpp(35,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\BrickBreaking\BrickBreaking\BrickBreaking.cpp(47,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\BrickBreaking\BrickBreaking\BrickBreaking.cpp(62,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\BrickBreaking\BrickBreaking\BrickBreaking.cpp(64,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\BrickBreaking\BrickBreaking\BrickBreaking.cpp(73,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\BrickBreaking\BrickBreaking\BrickBreaking.cpp(116,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\BrickBreaking\BrickBreaking\BrickBreaking.cpp(233,16): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\BrickBreaking\BrickBreaking\BrickBreaking.cpp(261,24): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\BrickBreaking\BrickBreaking\BrickBreaking.cpp(281,31): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Debug\Ball.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+  BrickBreaking.vcxproj -> C:\Users\HJH\Desktop\Jun-C\GitHub\Inha\VisualStudio\WinAPI\BrickBreaking\Debug\BrickBreaking.exe
